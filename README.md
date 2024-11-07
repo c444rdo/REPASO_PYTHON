@@ -9,11 +9,11 @@ EJERCICIO 1. Comprueba si una edad almacenada en una variable es mayor de edad, 
 ----------------------------
 
 EJERCICIO 2. Dada una nota almacenada en una variable, imprime su equivalente:
-• Mayor o igual a 0, pero menor que 5, SUSPENSO.
-• Mayor o igual a 5, pero menor que 6, SUFICIENTE.
-• Mayor o igual a 6, pero menor que 7, BIEN.
-• Mayor o igual a 7, pero menor que 9, NOTABLE.
-• Mayor o igual a 9, pero menor o igual a 10, SOBRESALIENTE.
+ - Mayor o igual a 0, pero menor que 5, SUSPENSO.
+ - Mayor o igual a 5, pero menor que 6, SUFICIENTE.
+ - Mayor o igual a 6, pero menor que 7, BIEN.
+ - Mayor o igual a 7, pero menor que 9, NOTABLE.
+ - Mayor o igual a 9, pero menor o igual a 10, SOBRESALIENTE.
 En cualquier otro caso, imprimir el texto: NOTA NO VÁLIDA.
 
 ![image](https://github.com/user-attachments/assets/af9c1b33-1b65-4a33-a8c4-3ddee5cb8c30)
@@ -84,16 +84,7 @@ EJERCICIO 11. Utilizando un bucle for, imprimir cada uno de los caracteres de un
 
 ----------------------------
 
-EJERCICIO 12. Utilizando bucles for, imprimir el siguiente dibujo: 
-* 
-** 
-*** 
-**** 
-***** 
-**** 
-*** 
-** 
-*
+EJERCICIO 12. Utilizando bucles for, imprimir el dibujo solicitado.
 
 ![image](https://github.com/user-attachments/assets/8a8d2c48-a86d-4b0c-a3f2-dd2cdc4eb476)
 ![image](https://github.com/user-attachments/assets/f866586c-8138-4360-8b66-58bc2010533d)
